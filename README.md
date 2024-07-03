@@ -1,2 +1,2 @@
 # Projeto de site
-> Site utilizando html, css e php
+Projeto final de programação Web utilizando HTML, estilização com CSS, integração com banco de dados MySQL utilizando PhP.
